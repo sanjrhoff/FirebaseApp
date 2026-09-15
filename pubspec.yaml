@@ -37,6 +37,8 @@ dependencies:
   firebase_core: ^4.14.0
   cloud_firestore: ^6.9.0
   firebase_auth: ^6.6.1
+  flutter_local_notifications: ^22.3.1
+  permission_handler: ^13.0.2
 
 dev_dependencies:
   flutter_test:
